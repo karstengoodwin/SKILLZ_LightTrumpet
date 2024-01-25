@@ -1,0 +1,1 @@
+Interactive sound and light workshop: LDR trumpet  Explore the world of microcontrollers and electronics as we look at the interplay of light sound and code in a project based learning environment. We will use light to bend tones on a custom circuit and learn how to program and play our own custom instruments.
